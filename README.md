@@ -127,6 +127,5 @@ I'm expanding my cloud engineering background into AI by building real projects 
 
 **Daniel Montaie**
 
-Cloud Engineer | Google Cloud & Generative AI | Python
 
 ---
